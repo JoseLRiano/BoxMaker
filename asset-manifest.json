@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joselriano.github.io/BoxMaker/static/css/main.d1b05096.chunk.css",
+    "main.js": "/joselriano.github.io/BoxMaker/static/js/main.38517a8f.chunk.js",
+    "main.js.map": "/joselriano.github.io/BoxMaker/static/js/main.38517a8f.chunk.js.map",
+    "runtime-main.js": "/joselriano.github.io/BoxMaker/static/js/runtime-main.36fb1c8f.js",
+    "runtime-main.js.map": "/joselriano.github.io/BoxMaker/static/js/runtime-main.36fb1c8f.js.map",
+    "static/js/2.c858e40d.chunk.js": "/joselriano.github.io/BoxMaker/static/js/2.c858e40d.chunk.js",
+    "static/js/2.c858e40d.chunk.js.map": "/joselriano.github.io/BoxMaker/static/js/2.c858e40d.chunk.js.map",
+    "index.html": "/joselriano.github.io/BoxMaker/index.html",
+    "precache-manifest.7fb3eb4dddbc723e586abcb73fa45cc9.js": "/joselriano.github.io/BoxMaker/precache-manifest.7fb3eb4dddbc723e586abcb73fa45cc9.js",
+    "service-worker.js": "/joselriano.github.io/BoxMaker/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/joselriano.github.io/BoxMaker/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c858e40d.chunk.js.LICENSE.txt": "/joselriano.github.io/BoxMaker/static/js/2.c858e40d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fb1c8f.js",
+    "static/js/2.c858e40d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.38517a8f.chunk.js"
+  ]
+}
