@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BoxMaker/static/css/main.d1b05096.chunk.css",
-    "main.js": "/BoxMaker/static/js/main.024c9970.chunk.js",
-    "main.js.map": "/BoxMaker/static/js/main.024c9970.chunk.js.map",
+    "main.js": "/BoxMaker/static/js/main.68fb3486.chunk.js",
+    "main.js.map": "/BoxMaker/static/js/main.68fb3486.chunk.js.map",
     "runtime-main.js": "/BoxMaker/static/js/runtime-main.aa8c1f5e.js",
     "runtime-main.js.map": "/BoxMaker/static/js/runtime-main.aa8c1f5e.js.map",
     "static/js/2.c858e40d.chunk.js": "/BoxMaker/static/js/2.c858e40d.chunk.js",
     "static/js/2.c858e40d.chunk.js.map": "/BoxMaker/static/js/2.c858e40d.chunk.js.map",
     "index.html": "/BoxMaker/index.html",
-    "precache-manifest.88ad71cfa0ba833b6c19a551fff569f2.js": "/BoxMaker/precache-manifest.88ad71cfa0ba833b6c19a551fff569f2.js",
+    "precache-manifest.0bc8943b0bd447a4dd1f2f50df1b8ebd.js": "/BoxMaker/precache-manifest.0bc8943b0bd447a4dd1f2f50df1b8ebd.js",
     "service-worker.js": "/BoxMaker/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/BoxMaker/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.c858e40d.chunk.js.LICENSE.txt": "/BoxMaker/static/js/2.c858e40d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aa8c1f5e.js",
     "static/js/2.c858e40d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.024c9970.chunk.js"
+    "static/js/main.68fb3486.chunk.js"
   ]
 }

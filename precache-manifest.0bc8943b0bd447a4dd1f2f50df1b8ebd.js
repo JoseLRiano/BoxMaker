@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5813fc11e62aef0a7eef3a867d4c511c",
+    "revision": "e5ea7a19b4e49fc5896304ae81cf82d3",
     "url": "/BoxMaker/index.html"
   },
   {
-    "revision": "34df7c26dd61d919333a",
+    "revision": "ba0981304426e3dfe3b5",
     "url": "/BoxMaker/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BoxMaker/static/js/2.c858e40d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34df7c26dd61d919333a",
-    "url": "/BoxMaker/static/js/main.024c9970.chunk.js"
+    "revision": "ba0981304426e3dfe3b5",
+    "url": "/BoxMaker/static/js/main.68fb3486.chunk.js"
   },
   {
     "revision": "2b012a96b6f025c3194b",
